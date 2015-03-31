@@ -1,0 +1,9 @@
+Jane Rivers       A-902 Accounting      05/16/2001 Morning Shift $16.25
+Bob Cox           S-823 Shipping        06/21/1990 Swing Shift   $17.50
+Ann Ramsey        A-715 Accounting      02/12/1998 Morning Shift $16.25
+Joseph Chandler   P-723 Production      12/22/2000 Night Shift   $14.35
+Arnold Kennedy    S-133 Shipping        08/10/1999 Swing Shift   $18.20
+Larry Huber       P-198 Production      02/12/2000 Unknown       $17.25
+Annette Wilson    H-501 Human Resources 04/04/1995 Morning Shift $20.25
+Robert Ferguson   H-674 Human Resources 04/10/2002 Swing Shift   $16.50
+Ava Gaines        H-434 Human Resources 01/05/2000 Night Shift   $15.65

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="source/Main.js"></script>
+	<link rel="stylesheet" type="text/css" href="source/Main.css" />
+  </head>
+  <body>
+    <div id="gui">
+	  <div id="console">
+	    <strong>Console</strong><br />
+	  </div>
+	  <div id="controls">
+	    <strong>Controls</strong><br />
+        <button id="btnStart" type="button">Start</button>
+		<button id="btnStop" type="button">Stop</button>
+		<button id="btnClear" type="button">Clear</button>
+		<input type="text" placeholder="5 (# of Philosophers)" name="numPhilosophers">
+		<button id="btnSet" type="button">Set</button>
+		<div id="info">
+		  <strong style="color: yellow">( - ) Yellow</strong> means thinking and waiting.<br />
+		  <strong style="color: red">( - ) Red</strong> means missed and hungry.<br />
+		  <strong style="color: green">( - ) Green</strong> means eaten and full.<br />
+		</div>
+	  </div>
+	</div>
+    <div id="display">
+      <img id="table" src="images/Table.png" />
+	</div>
+  </body>
+</html>

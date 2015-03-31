@@ -1,0 +1,84 @@
+body {
+    overflow: hidden;
+	top: 1px;
+}
+
+#gui {
+    border-right: 5px solid black;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    width: 384px;
+	z-index: 0;
+}
+
+#console {
+    border-bottom: 3px solid black;
+    height: 75%;
+	overflow: auto;
+}
+
+#controls {
+    border-top: 2px solid black;
+    height: 25%;
+}
+
+#display {
+    bottom: 128px;
+    height: 100%;
+    left: 384px;
+    margin: auto;
+    position: absolute;
+    right: 0;
+    top: 0;
+	z-index: 1;
+}
+
+#table {
+    bottom: 0;
+    height: 256px;
+    left: 0;
+    margin: auto;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.smiley {
+    height: 256px;
+}
+
+.forky {
+    height: 64px;
+}
+
+.philosopher {
+    position: absolute;
+}
+
+.fork {
+    position: absolute;
+}
+
+.leftFork {
+    bottom: 0;
+    height: 64px;
+    left: 0;
+    margin: auto;
+    position: absolute;
+    right: -64px;
+    top: 64px;
+}
+
+.rightFork {
+    bottom: 0;
+    height: 64px;
+    left: 0;
+    margin: auto;
+    position: absolute;
+    right: 64px;
+    top: 64px;
+    transform: rotate(90deg);
+}
