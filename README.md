@@ -1,6 +1,8 @@
 Greetings!
 
-This is a basic upload of some of my works that you are welcome to browse.
+This is a basic backup of some of my works that you are welcome to browse.
+
+Note: This is a work in progress, so do not be surprised if something is added or removed or changed entirely!
 
 Notable projects include:
 
