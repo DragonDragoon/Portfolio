@@ -31,6 +31,12 @@ Thumbs.db
 # Folder config file  
 Desktop.ini
 
+###############
+## Java VM
+###############
+
+*.class
+
 #################
 ## Eclipse
 #################
