@@ -1,3 +1,5 @@
+Airline Seating Problem
+=====
 Note: The file, airlines.cpp, is the final version of this program. Please refer to that file. 
 
 It was written using Code::Blocks, hence the .cbp file.
