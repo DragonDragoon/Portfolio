@@ -1,3 +1,5 @@
+Breadth-First-Search Visualization (Bridges)
+=====
 Note: This project is dependant on Bridges, found at <a href="http://bridgesuncc.github.io/">http://bridgesuncc.github.io/<a>
 
 This project was to create a viualization of a graph that included many actors from the .txt file included, and then implement a Breadth-First-Search through the graph, keeping track of the shortest path to the found node, if found.
