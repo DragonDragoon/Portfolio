@@ -1,3 +1,5 @@
+Topological Ordering
+=====
 Simple imlementation of a custom graph, edges, and vertexes, and then implementing a topological ordering of data included in data.txt.
 
 For example, let data.txt be:<br />
