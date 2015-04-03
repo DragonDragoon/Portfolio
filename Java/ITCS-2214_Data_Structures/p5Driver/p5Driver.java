@@ -183,8 +183,8 @@ public class p5Driver {
 		
 		/** BFS implementation: */
 		unvisitNodes(gv);														//Set all nodes to unvisited and invisible
-		Object start = "Matin_Azizpour";
-		Object end = list_actors.get(1);//"Warren_Zevon";//"James_Stewart_(I)";//list_actors.get(12);
+		Object start = list_actors.get(1);//"Matin_Azizpour";
+		Object end = "Cate_Blanchett";//list_actors.get(6);//"Warren_Zevon";//"James_Stewart_(I)";//list_actors.get(12);
 		System.out.println("\nBFS: " + start + " -> " + end);
 		BFS(gv, start, end);										//DFS through beginning at Kevin Bacon
 		System.out.println("Link to display all traversed vertices in graph during BFS: ");
