@@ -5,7 +5,7 @@ This project was to create a viualization of a graph that included many actors f
 Example output of given file:
 -----
 Link to display all vertices in graph:<br />
-Check out your visuals at <a href="http://bridges-cs.herokuapp.com/assignments/11.0/wwoodar1">http://bridges-cs.herokuapp.com/assignments/11.0/wwoodar1</a><br />
+Check out your visuals at <strike><a href="http://bridges-cs.herokuapp.com/assignments/11.0/wwoodar1">http://bridges-cs.herokuapp.com/assignments/11.0/wwoodar1</a></strike> (No longer viewable)<br />
 <br />
 BFS: Kevin_Bacon_(I) -> Cate_Blanchett<br />
 Cate_Blanchett found 4 levels away.<br />
