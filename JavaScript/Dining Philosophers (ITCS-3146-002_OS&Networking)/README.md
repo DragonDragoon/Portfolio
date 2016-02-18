@@ -1,6 +1,11 @@
 Dining Philosophers
 =======
 
+by William Woodard
+-------
+
+![Example](https://raw.githubusercontent.com/DragonDragoon/Portfolio/master/JavaScript/Dining%20Philosophers%20%28ITCS-3146-002_OS%26Networking%29/images/example.png)
+
 This project is an implementation of the dining philosophers problem found in operating systems resource management.
 It has the ability to simulate a simple semaphore, as well as simulating threads through JavaScript very well controlled asynchronous structure.
 
