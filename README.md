@@ -12,6 +12,8 @@ Note: This is a work in progress, so do not be surprised if something is added o
 
 Notable projects include:
 -----
+<a href="https://github.com/DragonDragoon/Portfolio/tree/master/JavaScript/Planet%20Mobile%20(ITCS-3120_Computer_Graphics)">Planet Mobile with WebGL</a>
+
 <a href="https://github.com/DragonDragoon/Portfolio/tree/master/Lua/ITCS-4102_Programming_Languages/Advanced%20Lua%20Calculator">Advanced Lua Calculator</a>
 
 <a href="https://github.com/DragonDragoon/Portfolio/tree/master/JavaScript/Dining%20Philosophers%20%28ITCS-3146-002_OS%26Networking%29">Dining Philosophers in JavaScript</a>
